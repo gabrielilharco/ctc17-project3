@@ -1,0 +1,9 @@
+Gender	height	weight	foot size
+male	very tall	very heavy	10-12
+male	very tall	very heavy	10-12
+male	tall	heavy	10-12
+male	very tall	heavy	10-12
+female	short	very skinny	4-6
+female	tall	normal	7-9
+female	not tall	skinny	7-9
+female	tall	normal	7-9
