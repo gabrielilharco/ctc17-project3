@@ -87,4 +87,4 @@ class NaiveBayesClassifier(object):
                         if y[i] == c and X[i, j] == f_j:
                             self.like_prob[c][j][f_j] += 1
                     self.like_prob[c][j][f_j] /= n_c
-                print (c,j, self.like_prob[c][j])
+                #print (c,j, self.like_prob[c][j])
